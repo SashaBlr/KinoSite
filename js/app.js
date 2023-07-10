@@ -18,7 +18,7 @@ async function getMovies(url) {
 }
 
 function getClassByRate(vote) {
-  if (vote >= 7) {
+  if (vote >= 8) {
     return "green";
   } else if (vote > 5) {
     return "yellow";
