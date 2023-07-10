@@ -30,7 +30,7 @@ body {
 
 .header_search {
     padding: 8px;
-    border: 2px solid #1a191f;
+    border: 3px solid #1a191f;
     border-radius: 10px;
     outline: none;
 }
@@ -105,13 +105,13 @@ body {
 
 }
 .movie_average_green {
-    border: 2px solid green;
+    border: 3px solid green;
 
 }
 .movie_average_yellow {
-    border: 2px solid yellow;
+    border: 3px solid yellow;
 }
 
 .movie_average_red {
-    border: 2px solid red;
+    border: 3px solid red;
 }
